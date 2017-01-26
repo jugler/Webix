@@ -1,0 +1,45 @@
+﻿Version 1.4 16/06/2015
+-Added local cache for downloads (strings and bitmaps, html source files and images basically)
+-Fixed Portrait/Landscape Mainscreen bug
+
+Version 1.3.1 15/06/2015
+-Fixed locale bug
+
+
+Version 1.3 13/06/2015
+-Added retries for comic loading, max retries 10 . if cant load comic goes back a day
+-Some fixes to the get images from html source code to be more flexible
+-Added bunch of comics: Questionable Content, VG Cats, SMBC, PhD Comics (12 comics so far)
+-Cleaned up code a little bit, still lots of refactor to do
+-Added Logo to main page title, switched color of title to match logo
+
+Version 1.2.1 12/06/2015
+Minor Fixes
+-Fixed Pointer click, now it works on release not on pressed.
+-Fixed Zoom on comic load, now its better...
+-Fixed on display rotate for comics list
+
+Version 1.2  10/06/2015
+-Disabled developer buttons
+-UI Change Main comics page now calculates to fill the scren
+-Fixed scrolling
+-Increased the area of view for the comic
+-Changed the navigation controls for each comic (prev, next)
+-Fixed Color on Image Shower
+-Added "New" icon on comics that are released on the day.
+-Added animation for the comics page
+-Added calculation for different resolutions for comics page.
+-Improved the layout for the comics page
+-Improved the UI for the comics page (white > purple?)
+-Added mouse over effects for each comic in comics page
+-Dev Options: Delete roaming settings
+-Dev Options: Generate JSON file for saving info
+
+
+1st Version Date ??? April 2015
+-Functionality of comics works
+-Simple storage using JSON objects
+-Simple logos
+-Create comic works 
+-First Version on the Store
+-Includes (CAD, LICD, LFG, Sinfest, XKCD, Dilbert, )
