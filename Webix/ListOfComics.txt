@@ -1,0 +1,13 @@
+﻿Currently Supported:
+Ctrl+Alt+Del
+Least I Could Do
+Looking For Group
+Sinfest
+Dilbert
+XKCD
+
+
+
+TO Be added (in theory supported):
+Penny Arcade
+Cyanide and Happines (explosm.net counter based)
